@@ -8,9 +8,10 @@
     },
     {
       "id": 2,
-      "title": "Project 2",
+      "title": "Project 2 (Test)",
       "description": "Description 2",
-      "complete": true
+      "complete": true,
+      "details": "dfgdfgdfgdfg fdgdfgdfgdfgd"
     },
     {
       "id": 3,
